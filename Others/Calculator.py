@@ -1,3 +1,10 @@
+# Description:
+# A command-line scientific calculator that supports a variety of mathematical operations, including addition, subtraction, 
+# multiplication, division, power, sine, cosine, tangent, logarithm, and exponential functions. 
+
+# Usage:
+# python Calculator.py
+
 import math
 
 def scientific_calculator():

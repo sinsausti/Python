@@ -1,3 +1,11 @@
+# Description:
+# This script performs web scraping to extract product names and prices from a specified webpage. 
+# It uses requests to fetch the page content and BeautifulSoup to parse and extract the desired information. 
+# The extracted data is then saved to a CSV file using pandas.
+
+# Usage:
+# python WebScraper.py
+
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd

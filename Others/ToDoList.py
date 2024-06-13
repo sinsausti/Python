@@ -1,3 +1,10 @@
+# Description:
+# A simple to-do list manager that allows users to add, view, complete, and delete tasks. 
+# Tasks are stored in a text file for persistence between sessions.
+
+# Usage:
+# python ToDoList.py
+
 import os
 
 def display_tasks(tasks):

@@ -1,3 +1,9 @@
+# Description:
+# A secure password generator that creates random passwords based on user-specified criteria, such as length, and whether to include uppercase letters, digits, and symbols.
+
+# Usage:
+# python PasswordGenerator.py
+
 import random
 import string
 

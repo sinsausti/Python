@@ -1,3 +1,10 @@
+# Description:
+# A simple and interactive number guessing game where the user tries to guess a randomly generated number between 1 and 100. 
+# The script provides feedback on whether the guess is too high or too low and counts the number of attempts until the correct number is guessed.
+
+# Usage:
+# python Guessing.py
+
 import random
 
 def guess_the_number():
