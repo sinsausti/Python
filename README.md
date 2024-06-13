@@ -1,3 +1,3 @@
 # Python
 
-Python scripts for Data Analytics or Machine Learning
+Python scripts for Data Analytics, Machine Learning, and more.
